@@ -28,8 +28,20 @@ $ npm install
 
 Para rodar a aplicação executar:
 ```bash
-$ node app
+$ node app..
 ```
 
 A aplicação está configurada para rodar na porta 3000
-Para acessar a aplicação entrar no endereço http://localhost:3000. Parab alterar o número de porta editar o arquivo `app.js`
+Para acessar a aplicação entrar no endereço http://localhost:3000. Parab alterar o número de porta editar o arquivo `app.js`.
+
+## Desenvolvimento
+
+O projeto foi desenvolvido com:
+
+* [Node.js](https://nodejs.org). - Plataforma de
+desenvolvimento Javascript
+* [Sublime Text](https://nwww.sublimetext.com) - Editor de texto para programação.
+
+## Autores
+
+* **Eduardo Berres** - [EduardoBerres](http://github.com/EduardoBerres/)
